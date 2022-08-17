@@ -1,0 +1,101 @@
+body {
+    background-color: gray;
+}
+
+#form {
+    display: block;
+    position: relative;
+    margin: auto;
+    background-color: rgb(15, 144, 101);
+    border-radius: 8px;
+    border: 5px solid black;
+    width: 60%;
+}
+
+#name {
+    display: block;
+    margin: 8px;
+    font-family: 'Rubik Wet Paint', cursive;
+}
+
+#name1 {
+    display: block;
+    margin: 8px;
+    border: 5px solid black;
+    font-family: 'Rubik Wet Paint', cursive;
+    background-color: gray;
+}
+
+#age {
+    display: block;
+    margin: 8px;
+    font-family: 'Rubik Wet Paint', cursive;
+}
+
+#age1 {
+    display: block;
+    margin: 8px;
+    border: 5px solid black;
+    font-family: 'Rubik Wet Paint', cursive;
+    background-color: gray;
+}
+
+#password {
+    display: block;
+    margin: 8px;
+    font-family: 'Rubik Wet Paint', cursive;
+}
+
+#password1 {
+    display: block;
+    margin: 8px;
+    border: 5px solid black;
+    font-family: 'Rubik Wet Paint', cursive;
+    background-color: gray;
+}
+
+#submit {
+    margin: 8px;
+    border: 5px solid black;
+    background-color: orangered;
+    font-family: 'Rubik Wet Paint', cursive;
+}
+
+
+#bday {
+    margin: 8px;
+    border: 5px solid black;
+    background-color: orangered;
+    font-family: 'Rubik Wet Paint', cursive;
+}
+
+#greet {
+    margin: 8px;
+    border: 5px solid black;
+    background-color: orangered;
+    font-family: 'Rubik Wet Paint', cursive;
+}
+
+#among1 {
+    display: block;
+    position: relative;
+    left: 3rem;
+}
+
+#error {
+    display: block;
+    font-size: 2rem;
+    font-family: 'Rubik Wet Paint', cursive;
+    color: rgb(62, 0, 0);
+    text-align: center;
+
+}
+
+#paraGraf {
+    display: block;
+    font-size: 1rem;
+    font-family: 'Rubik Wet Paint', cursive;
+    color: rgb(62, 0, 0);
+    margin-left: 12px;
+
+}
